@@ -1,0 +1,51 @@
+.hero {
+  background-image: url("../fundo.a62a0635.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 64px;
+  padding-bottom: 100px;
+}
+
+.hero .container {
+  position: relative;
+}
+
+.hero:before {
+  content: "";
+  opacity: .7;
+  background-color: #000;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.hero__text {
+  color: #fff;
+  text-align: center;
+  margin-top: 64px;
+  margin-bottom: 64px;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 56px;
+}
+
+.hero__logo {
+  height: 80px;
+  margin: 0 auto;
+  display: block;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=main.css.map */

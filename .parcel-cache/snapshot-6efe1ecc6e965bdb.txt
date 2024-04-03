@@ -189,7 +189,7 @@
 60C:\Users\maria\Desktop\Nova pasta\node_modules\.bin\svgo.cmd133565519715562303 0
 51C:\Users\maria\Desktop\Nova pasta\package-lock.json133565521658053072 0
 85C:\Users\maria\Desktop\Nova pasta\node_modules\svgo\plugins\addClassesToSVGElement.js133565519631386466 0
-46C:\Users\maria\Desktop\Nova pasta\package.json133565521656375505 0
+46C:\Users\maria\Desktop\Nova pasta\package.json133566379236571835 0
 93C:\Users\maria\Desktop\Nova pasta\node_modules\csso\node_modules\css-tree\cjs\lexer\index.cjs133565519633423251 0
 77C:\Users\maria\Desktop\Nova pasta\node_modules\commander\package-support.json133565519609321212 0
 64C:\Users\maria\Desktop\Nova pasta\node_modules\type-fest\license133565519607065543 0

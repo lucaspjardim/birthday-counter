@@ -1,9 +1,8 @@
-@import '_hero';
-
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container {
@@ -11,3 +10,5 @@
     width: 100%;
     margin: 0 auto;
 }
+
+@import '_hero';

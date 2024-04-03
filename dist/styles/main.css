@@ -69,8 +69,8 @@
   line-height: 56px;
 }
 
-@media (width <= 640px) {
-  .hero {
+@media (width >= 481px) and (width <= 767px) {
+  .hero .container {
     padding: 40px 0;
   }
 
@@ -88,6 +88,22 @@
     margin: 24px 0;
     font-size: 15px;
     line-height: 24px;
+  }
+}
+
+@media (width >= 768px) and (width <= 1024px) {
+  .hero .container {
+    padding: 40px;
+  }
+
+  .hero__logo, .hero__cake {
+    height: 300px;
+  }
+
+  .hero__counter {
+    margin: 48px 0;
+    font-size: 40px;
+    line-height: 80px;
   }
 }
 /*# sourceMappingURL=main.css.map */

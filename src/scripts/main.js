@@ -1,5 +1,5 @@
 function counterInitialize() {
-    const targetDate = new Date('September 02, 2024 00:00:00').getTime()
+    const targetDate = new Date('November 06, 2024 00:00:00').getTime()
 
     const counterInterval = setInterval(() => {
         const dateNow = new Date().getTime()
